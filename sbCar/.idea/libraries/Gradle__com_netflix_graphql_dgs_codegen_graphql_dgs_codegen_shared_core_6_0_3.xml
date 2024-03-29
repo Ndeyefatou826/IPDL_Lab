@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.graphql.dgs.codegen:graphql-dgs-codegen-shared-core:6.0.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.netflix.graphql.dgs.codegen" artifactId="graphql-dgs-codegen-shared-core" version="6.0.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.graphql.dgs.codegen/graphql-dgs-codegen-shared-core/6.0.3/61c0ddc0a2703fd84ff3e433ff98f948f2d2d31b/graphql-dgs-codegen-shared-core-6.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

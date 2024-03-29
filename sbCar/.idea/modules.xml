@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sbCar.iml" filepath="$PROJECT_DIR$/sbCar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbCar.aot.iml" filepath="$PROJECT_DIR$/.idea/modules/sbCar.aot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbCar.aotTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sbCar.aotTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbCar.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sbCar.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbCar.test.iml" filepath="$PROJECT_DIR$/.idea/modules/sbCar.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jmolecules:jmolecules-events:1.9.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jmolecules" artifactId="jmolecules-events" version="1.9.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jmolecules/jmolecules-events/1.9.0/3e538882c448b5079b5c9f17cec2fcd4a1103f94/jmolecules-events-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
